@@ -18,10 +18,10 @@ When contributing, make sure that you are in the **correct subdirectory** for th
 ## How to contribute
 There's two ways you can contribute as a player: you can make suggestions yourself or you can comment on others' suggestions. Each of these are handled differently.
 
+**Note: for those unwilling to read text, there's a [**video tutorial online**](https://youtu.be/DkxURx_GQBw)
+
 ### Making a suggestion
 To make a suggestion, you have to folow the [**suggestion format**](data/format.txt). When you first open it up, it will have some fields with a REPLACE_HERE text next to them. You are to fill in those details in those areas. For example, I will now show how you'd contribute a suggestion. **Note: this assumes you have created a github account, installed git on your computer, and configured it**
-
-**Note: for those unwilling to read text, there's a [**video tutorial online**](REPLACE_THIS_LINK)
 
 1. Fork the repository from the [**original repo's base url**](https://github.com/sysbloat/Lsrcr-Redesign/) by clicking on the "Fork" botton at the top right of your screen. 
 
@@ -43,9 +43,11 @@ To make a suggestion, you have to folow the [**suggestion format**](data/format.
 
 10. Once the commit command runs successfully, run `git push origin master`. This will "push" your commited changes to your repository, effectively "updating it". 
 
-11. Once you've pushed your changes, get back to the [**original repository in Github**](https://github.com/sysbloat/Lsrcr-Redesign/) and click on the "New pull request" button. Select the original master branch as the base, and your own repo's branch as the compare target, and create a pull request.
+11. Once you've pushed your changes, get back to your [**copy repository in Github**](https://github.com/YOUR_USERNAME/Lsrcr-Redesign/) (use a valid link). You'll see that on the "latest commit" line, there'll be a notice that says that your branch is "X" commits ahead of my branch (sysbloat/master). You may want to review your changes below, and then click "Pull request". 
 
-12. That's it, from that point on you will have published a suggestion. Other people will be free to comment on it, etc. It will be tagged according to its status (accepted, review, denied, etc.) but this is more of a developer intended feature. Thanks for taking the time to make a suggestion!
+12. You'll be taken to a screen that asks for a description of the changes and a title. As long as the commit message you used was fine, you shouldn't need a specific description. **Make sure the tickbox next to "Allow edits from maintainers" is enabled.** Once this is done, click "Create Pull Request".
+
+13. You're done, your suggestion is up for review of everyone. Can keep rechecking to see the status for it, and you'll be notified when people tag you in responses. Thanks for taking the time to make a suggestion!
 
 ### Commenting on a suggestion
 
