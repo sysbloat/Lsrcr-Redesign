@@ -23,25 +23,29 @@ To make a suggestion, you have to folow the [**suggestion format**](data/format.
 
 **Note: for those unwilling to read text, there's a [**video tutorial online**](REPLACE_THIS_LINK)
 
-1. Clone the repository from the [**base url**](https://github.com/sysbloat/Lsrcr-Redesign/). This is done on either the command prompt or git bash prompt. First, change into a directory you'd want to keep the repository copy in (for example, Desktop). Once you're in the directory you want the repo to be created in, run the following command: `git clone https://github.com/sysbloat/Lsrcr-Redesign/`.
+1. Fork the repository from the [**original repo's base url**](https://github.com/sysbloat/Lsrcr-Redesign/) by clicking on the "Fork" botton at the top right of your screen. 
 
-2. Once you've cloned it, open the folder up on your File Explorer (what you use to browse your files). Once in the suggestions directory, browse for an appropriate subdirectory. **Note: if there's no appropriate subdirectory, pick the directory that is most accurate and I'll move it to the right place.**
+2. Once you've forked it, you will be redirected to your fork of the repo. You can think of this fork as your own custom "copy". Copy the url on your browser of your repo (should look something like https://github.com/YOUR_USER_NAME/Lsrcr-Redesign/).
 
-3. Once you're in the appropriate subdirectory, create a textfile. Give it a **meaningful and descriptive name**. The example we'll do as a walkthrough is "car_roof_shooting.txt". 
+3. Once you've copied the link, go to a location where you'd want to save a local copy of the repo. Enter a git bash and run `git clone https://github.com/YOUR_USER_NAME/Lsrcr-Redesign/` (replace the link with a valid one). If successful, change directory into the repository you just cloned.
 
-4. Copy the appropriate portion of the [**suggestion format**](data/format.txt), and paste it inside the file you create it. Save the file.
+4. Open the folder up on your File Explorer (what you use to browse your files). Once in the suggestions directory, browse for an appropriate subdirectory. **Note: if there's no appropriate subdirectory, pick the directory that is most accurate and I'll move it to the right place.**
 
-5. Modify the file accordingly with your suggestion, and save it when done.
+5. Once you're in the appropriate subdirectory, create a textfile. Give it a **meaningful and descriptive name**. The example we'll do as a walkthrough is "car_roof_shooting.txt". 
 
-6. Go back to your repository directory, and run `git status`. If everything went right, the output should list the files/directories you've created/changed/deleted. 
+6. Copy the appropriate portion of the [**suggestion format**](data/format.txt), and paste it inside the file you create it. Save the file.
 
-7. Once you're satisfied, run `git commit -m <YOUR_COMMIT_MESSAGE>`. Please make sure to make a correct commit message. A good example is something like "Add car roof shooting suggestion."; a bad example is "Added suggestion". Good commit messages help to keep stuff better organized and easier to filter through. 
+7. Modify the file accordingly with your suggestion, and save it when done.
 
-8. Once the commit command runs successfully, run `git push origin master`. This will "push" your commited changes to your repository, effectively "updating it". 
+8. Go back to your repository directory, and run `git status`. If everything went right, the output should list the files/directories you've created/changed/deleted. 
 
-9. Once you've pushed your changes, get back to the [**original repository in Github**](https://github.com/sysbloat/Lsrcr-Redesign/) and click on the "New pull request" button. Select the original master branch as the base, and your own repo's branch as the compare target, and create a pull request.
+9. Once you're satisfied, run `git commit -m <YOUR_COMMIT_MESSAGE>`. Please make sure to make a correct commit message. A good example is something like "Add car roof shooting suggestion."; a bad example is "Added suggestion". Good commit messages help to keep stuff better organized and easier to filter through. 
 
-10. That's it, from that point on you will have published a suggestion. Other people will be free to comment on it, etc. It will be tagged according to its status (accepted, review, denied, etc.) but this is more of a developer intended feature. Thanks for taking the time to make a suggestion!
+10. Once the commit command runs successfully, run `git push origin master`. This will "push" your commited changes to your repository, effectively "updating it". 
+
+11. Once you've pushed your changes, get back to the [**original repository in Github**](https://github.com/sysbloat/Lsrcr-Redesign/) and click on the "New pull request" button. Select the original master branch as the base, and your own repo's branch as the compare target, and create a pull request.
+
+12. That's it, from that point on you will have published a suggestion. Other people will be free to comment on it, etc. It will be tagged according to its status (accepted, review, denied, etc.) but this is more of a developer intended feature. Thanks for taking the time to make a suggestion!
 
 ### Commenting on a suggestion
 
