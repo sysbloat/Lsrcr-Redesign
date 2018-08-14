@@ -1,0 +1,15 @@
+[[FORMAT TO MAKE A SUGGESTION]]
+
+**Your ingame name:** REPLACE_HERE
+**Suggestion title:** REPLACE_HERE
+**Suggestion description:** REPLACE_HERE
+**Suggestion pictures:** REPLACE_HERE
+**Suggestion benefits:** REPLACE_HERE
+**Suggestion side-effects:** REPLACE_HERE
+
+
+[[FORMAT TO COMMENT ON A SUGGESTION]]
+**Your ingame name:** REPLACE_HERE
+**Part of the suggestion you disagree/would like to improve:** REPLACE_HERE
+**Reason for disagreement/improval:** REPLACE_HERE
+**Replacement suggestion:** REPLACE_HERE
