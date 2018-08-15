@@ -1,0 +1,10 @@
+**Your ingame name:** rally3
+**Suggestion title:** Car roof shooting nerf
+**Suggestion description:**
+People on top of a car that's moving should have decreased accuracy (it would be decreased proportional to the vehicle speed).
+In simple terms, if the car is moving fast, then the shooters on roof have low accuracy.
+If its moving slow, they have higher accuracy.
+If its stationary, they have perfect/regular accuracy.
+**Suggestion pictures:** (No picture)
+**Suggestion benefits:** Add competitiveness, add balance, add fun
+**Suggestion side-effects:** None as of now
