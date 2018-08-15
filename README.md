@@ -1,10 +1,21 @@
-# Lsrcr Redesign Repository
+# [**Lsrcr Redesign Repository**](https://github.com/sysbloat/Lsrcr-Redesign)
 
 ## About
 This is a repository that will contain some information as well as suggestions/ideas to improve Ls-rcr. Ls-rcr is a Cops and Robbers theme server for the Grand Theft Auto : San Andreas multiplayer modification known as SA:MP. So far this is done unoficially but should ideally provide some order for developers or anyone who's interested to contribute in how things would be adjusted. 
 
 ## Why this? Why not use the forums?
 This repository allows for an easier, more organized way to keep track of everyone's input and every suggestion on a large scope. It would be hard to address things in a specific forum post since comments can easily add up as well as unnecessary additions/ "I agree" statements that just clog up the post. To be able to contribute into this repository, a user would have to go through some (very minor) hurdles such as learning how to register an account on github, downloading and installing git on their machine, and learning how to clone and submit a pull request. Please check the corresponding contribution section for a rundown on how to contribute.
+
+## What this repository is
+This is meant to be a platform where any player/community member, regardless of rank/status, can voice their concerns/opinons on 
+suggestions for Ls-rcr. It is absolutely mandatory to use the [**suggestion format**](data/format.txt) as indicated (only posts exempt from this are the initial responses/feedback on the pull request itself - every suggestion comment must have it, even my own). This will ensure flexibility and modularity, allowing for anyone that's willing to look for a specific suggestion to be able to find it easily. In addition, it will provide good documentation for developers to reference back to. 
+
+You are encouraged to share the existence of this repository as well as any suggestions you think of to get some more initial feedback before a first post: remember, the more thought out the first post is, the more clear the suggestion will be to everyone to begin with.
+
+## What this repository isn't
+A clone of the current state of the forums suggestion environment. **You can only comment on a suggestion by improving/discussing it, posts such as "I agree" and the like are discouraged**. Only comment if you have improvements/criticism, and make sure to develop on those points following the format. 
+
+If you agree completely with the state of a suggestion, then you can react to it with a thumbs up emoji on the post that you agree with. For example, I don't agree with an initial suggestion; I comment and give feedback, then it is adjusted by the original poster and others, and it is just how I want in the 5th post. I would react with a thumbs up to the 5th post. **Important: if you change your mind, simply remove the reaction and place it in its appropriate place.**
 
 ## How is this organized?
 This high level structure contains three folders: data, information and suggestions. 
@@ -64,3 +75,8 @@ To make a suggestion, you have to folow the [**suggestion format**](data/format.
 6. Once happy with the message, click the "Comment" button. 
 
 7. That's it, from that point on your opinion can be heard and addressed by the rest of us! Thanks for sharing your feedback.
+
+## How to contact me for Help
+* [**PM me in the forums**](https://ls-rcr.com/forum/ucp.php?i=pm&mode=compose&u=28485)
+* Talk to me in game
+* [**PM me in discord**](@sys_bloat#9559)
