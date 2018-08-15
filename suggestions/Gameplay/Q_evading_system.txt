@@ -1,0 +1,8 @@
+**Your ingame name:** [Lsrcr]Playa
+**Suggestion title:** Radius system for criminals (hence avoiding q evading)
+**Suggestion description:** 
+As it has been noticed by everyone that there has been a lot of Q evading (i.e usage of the command /q when a LEO is near you, chasing you, or has tazed/cuffed you)
+This new system does the following: A radius (which is left on the seniors' discretion) will be implemented. So, if any criminal quits while being in that particular radius of a cop, he shall be jailed for a particular time (also decided by the seniors) and if repeated for more than 3 times he shall be given an auto-warning. However, this should not work if the LEO in that radius is AFK (therefore everything will be fair)
+**Suggestion pictures:** ((No pictures))
+**Suggestion benefits:** Avoides Q evading and promotes a fairer gameplay.
+**Suggestion side-effects:** None
